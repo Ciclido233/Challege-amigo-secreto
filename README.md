@@ -21,7 +21,7 @@ Esta aplicación sencilla. Fue creada con:
 🛠️ ¿Cómo puedes usarla?
 
 - Descarga o clona el repositorio:
-git clone https://github.com/tuusuario/amigo-secreto.git
+git clone https://github.com/Ciclido233/Challege-amigo-secreto.git
 - Abre el archivo index.html en cualquier navegador web.
 - Empieza a jugar:
 - Escribe los nombres de los participantes y presiona "Añadir".
