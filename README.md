@@ -29,7 +29,7 @@ git clone https://github.com/tuusuario/amigo-secreto.git
 
 📸 ¿Cómo se ve?
 
-
+![image](https://github.com/user-attachments/assets/818ffd50-8498-4222-a37e-04d5fd086fee)
 
 🏆 Créditos y agradecimientos
 
