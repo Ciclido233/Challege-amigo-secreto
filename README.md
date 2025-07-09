@@ -35,4 +35,4 @@ git clone https://github.com/Ciclido233/Challege-amigo-secreto.git
 
 Desarrollado con mucho 💙 por Angelo Kevin García Hernández. Si te gustó el proyecto, ¡no dudes en dejar una ⭐ en el repo! 😊
 
-¡Diviértete sorteando a tu amigo secreto! 🎁✨
+¡Diviértete sorteando a tu amigo secreto! 🎁✨ Muchas Gracias
